@@ -221,7 +221,7 @@ but `server` and `version` will take precedence.
 
 ## Installation
 
-[Installation and Setup](http://sensu-plugins.io/docs/installation_instructions.html)
+[Installation and Setup](https://docs.sensu.io/sensu-go/latest/plugins/install-plugins/)
 
 ## Notes
 
